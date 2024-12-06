@@ -8,16 +8,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Guides](#guides)
 - [Tools](#tools)
+- [Guides](#guides)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Guides
-
-- [Mobalytics Guides](https://mobalytics.gg/poe-2/guides) - Guides from acclaimed PoE 2 creators.
 
 ## Tools
 
 - [PoE2DB](https://poe2db.tw/) - Database of game data extracted from the client.
 - [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Online version and planner of the Passive Skill Tree.
+
+## Guides
+
+- [Mobalytics Guides](https://mobalytics.gg/poe-2/guides) - Guides from acclaimed PoE 2 creators.
