@@ -16,7 +16,8 @@
 ## Tools
 
 - [PoE2DB](https://poe2db.tw/) - Database of game data extracted from the client.
-- [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Online version and planner of the Passive Skill Tree.
+- [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Browser version and planner of the Passive Skill Tree.
+- [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 
 ## Guides
 
