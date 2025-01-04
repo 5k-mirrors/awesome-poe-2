@@ -25,7 +25,7 @@
 ## Apps
 
 - [Sidekick](https://sidekick-poe.github.io/) - Overlay to check prices and map mods.
-- [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - App to manage multiple live searches and send whispers without leaving the game.
+- [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - App to manage multiple live searches, get notifications, and send whispers without leaving the game.
 
 ## Guides
 
