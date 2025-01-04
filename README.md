@@ -9,6 +9,7 @@
 ## Contents
 
 - [Tools](#tools)
+- [Apps](#apps)
 - [Guides](#guides)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -20,6 +21,10 @@
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters (WIP).
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources (WIP).
+
+## Apps
+
+- [Sidekick](https://sidekick-poe.github.io/) - Overlay to check prices and map mods.
 
 ## Guides
 
