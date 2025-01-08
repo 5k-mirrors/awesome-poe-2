@@ -21,6 +21,7 @@
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters (WIP).
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources (WIP).
+- [Divine View](https://divineview.app/) - Loot Filter Editor
 
 ## Apps
 
