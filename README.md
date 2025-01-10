@@ -23,7 +23,7 @@
 - [Poe2 Scout](https://poe2scout.com/) - Market and build data.
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters (WIP).
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources (WIP).
-- [Divine View](https://divineview.app/) - Loot Filter Editor
+- [Divine View](https://divineview.app/) - Loot filter editor.
 
 ## Apps
 
