@@ -16,6 +16,7 @@
 
 ## Tools
 
+- [PoE2 Filter](https://poe2filter.com/) - Custom filter builder.
 - [PoE2DB](https://poe2db.tw/) - Database of game data extracted from the client.
 - [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Browser version and planner of the Passive Skill Tree.
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
