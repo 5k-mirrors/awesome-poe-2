@@ -22,7 +22,6 @@
 - [Maxroll Passive Skill Tree Planner](https://maxroll.gg/poe2/passive-tree/) - Browser version and planner of the Passive Skill Tree.
 - [PoE2 Filter](https://poe2filter.com/) - Custom filter builder.
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
-- [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 
@@ -31,6 +30,7 @@
 - [Path of Building](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - Character planner.
 - [Sidekick](https://sidekick-poe.github.io/) - Overlay to check prices and map mods.
 - [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - App to manage multiple live searches, get notifications, and send whispers without leaving the game.
+- [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
 
 ## Guides
 
