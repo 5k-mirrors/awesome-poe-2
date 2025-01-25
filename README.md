@@ -19,7 +19,7 @@
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters.
 - [Poe2 Scout](https://poe2scout.com/) - Market and build data.
 - [PoE2DB](https://poe2db.tw/) - Database of game data extracted from the client.
-- [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Browser version and planner of the Passive Skill Tree.
+- [Maxroll Passive Skill Tree Planner](https://maxroll.gg/poe2/passive-tree/) - Browser version and planner of the Passive Skill Tree.
 - [PoE2 Filter](https://poe2filter.com/) - Custom filter builder.
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 - [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
