@@ -21,6 +21,7 @@
 - [Passive Skill Tree](https://poe2db.tw/us/passive-skill-tree/) - Browser version and planner of the Passive Skill Tree.
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 - [Poe2 Scout](https://poe2scout.com/) - Market and build data.
+- [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters (WIP).
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources (WIP).
 - [Divine View](https://divineview.app/) - Loot filter editor.
