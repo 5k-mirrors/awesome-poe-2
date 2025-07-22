@@ -24,6 +24,7 @@
 - [PoE 2 Skills](https://poe2skills.com/) - Skill planner.
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
+- [PoE2 Quest Tracker](https://github.com/juddisjudd/poe2-quest-tracker) - Quest Tracker Overlay (Web version available as well.)
 
 ## Apps
 
