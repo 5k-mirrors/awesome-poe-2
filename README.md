@@ -33,6 +33,9 @@
 - [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - App to manage multiple live searches, get notifications, and send whispers without leaving the game.
 - [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
 - [Sidekick](https://sidekick-poe.github.io/) - Overlay to check prices and map mods.
+- **Exile Companion** – Mobile app for console players to scan items and check prices
+  * [Android](https://play.google.com/store/apps/details?id=com.poe2companion.app)
+  * [iOS](https://apps.apple.com/se/app/exile-companion/id6742854786)
 
 ## Guides
 
