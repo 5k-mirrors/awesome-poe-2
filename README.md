@@ -25,6 +25,7 @@
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 - [Filter Forge](https://filter-forge.com/) - Kanban item filter editor.
+- [Exile Index](https://exileindex.com) - Curated unique items database with editorial commentary, tier rankings, and ascendancy browser.
 
 ## Apps
 
