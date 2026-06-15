@@ -25,6 +25,7 @@
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 - [Filter Forge](https://filter-forge.com/) - Kanban item filter editor.
+- [Dads of Exile](https://dadsofexile.com) - Economy tools: price tracker, stash valuator, Remnant reward picker, and build finder.
 
 ## Apps
 
