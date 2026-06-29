@@ -33,6 +33,7 @@
 - [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - App to manage multiple live searches, get notifications, and send whispers without leaving the game.
 - [Arevtur](https://github.com/mahhov/arevtur) - Grear upgrades and in-game tools.
 - [Sidekick](https://sidekick-poe.github.io/) - Overlay to check prices and map mods.
+- [poe2-toolkit](https://github.com/rajtik76/poe2-toolkit) - Passive tree renderer and data extractor libraries, code only. [Live demo](https://poe.rajtik.com/tree).
 
 ## Guides
 
