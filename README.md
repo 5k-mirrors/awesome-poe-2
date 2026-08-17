@@ -18,6 +18,7 @@
 
 - [FilterBlade](https://www.filterblade.xyz/?game=Poe2) - Item filters.
 - [Poe2 Scout](https://poe2scout.com/) - Market and build data.
+- [PoE2 Price Checker](https://www.poe2pricecheck.com/) - Browser-based price checker with current market prices, 7-day trends, and supply data.
 - [PoE2DB](https://poe2db.tw/) - Database of game data extracted from the client.
 - [Maxroll Passive Skill Tree Planner](https://maxroll.gg/poe2/passive-tree/) - Browser version and planner of the Passive Skill Tree.
 - [PoE2 Filter](https://poe2filter.com/) - Custom filter builder.
