@@ -25,6 +25,7 @@
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 - [Filter Forge](https://filter-forge.com/) - Kanban item filter editor.
+- [PoE2 Trade Monkey](https://github.com/maluramichael/poe2-trade-monkey) - Userscript for the official trade site with league-independent bookmarks, search history and mod filter buttons.
 
 ## Apps
 
