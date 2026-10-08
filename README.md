@@ -25,6 +25,7 @@
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 - [Filter Forge](https://filter-forge.com/) - Kanban item filter editor.
+- [PoE 2 Ref](https://poe2ref.com/) - Database of skill gems, uniques, passives and Atlas bosses with a shareable passive tree, crafting simulator and weapon DPS ranking.
 
 ## Apps
 
