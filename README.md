@@ -25,6 +25,7 @@
 - [Craft of Exile](https://www.craftofexile.com/?game=poe2) - Crafting resources.
 - [Divine View](https://divineview.app/) - Loot filter editor.
 - [Filter Forge](https://filter-forge.com/) - Kanban item filter editor.
+- [WebPoB](https://webpob.pages.dev/) - Browser-based Path of Building viewer and planner with pobb.in and poe.ninja import and passive tree diffing.
 
 ## Apps
 
